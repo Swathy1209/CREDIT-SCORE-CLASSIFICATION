@@ -1,4 +1,5 @@
-Credit Score Classification
+Credit Score Classification:
+
 There are Four credit scores that banks and credit card companies use to label their customers:
 
 1.Excellent
